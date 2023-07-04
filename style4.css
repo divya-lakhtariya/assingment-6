@@ -1,0 +1,11 @@
+body
+#docu1{
+    color: rgb(147, 45, 211);
+    border: double;
+}
+#docu2{
+
+     color: aqua;
+     border: darkblue;
+     background-color: darkslateblue;
+}

@@ -1,0 +1,35 @@
+body
+
+#docum0{
+    background-color: rgb(3, 3, 117);
+    color: crimson;
+
+}
+#docum1,#docum2,#docum3{
+    color: darkblue;
+    
+
+}
+ #docum4{
+    color: crimson;
+
+ }
+ #docum5{
+    color: crimson;
+ }
+ #docum6,#docum7,#docum8,#docum9,#docum10,#docum11,#docum12,#docum13{
+
+    color: rgb(6, 1, 107);
+ }
+ #docume1,#docume4
+ {
+    color: crimson;
+ }
+ #docume2,#docume3,#docume5,#docume7,#docume6
+ {
+    color: darkblue;
+ }
+ #document8,#document9
+ {
+    color: darkblue;
+ }
